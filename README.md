@@ -1,11 +1,11 @@
 # Hello 👋👋
 
-My name is Evangelos Bikis and I am a self learner in data analytics and programming. Few things about me:
+My name is Evangelos Bikis and I am a self learner in data analytics and programming. Little about me:
 
-### 💼 Professional Experience: 
-  * 5 years in Financial Reporting, Procurement Compliance, and Data Analysis
+### 💼 Professional Experience
+  * 5 years in Financial Reporting, Procurement Compliance, and Data Analysis.
 
-### 📚 Academic Background: 
+### 📚 Academic Background 
   * BSc in Economics - Majored in Business Administration: Financial Analysis, Accounting, Operational Research, Statistics, Time Series Analysis, Mathematics.
   * MSc in Decision Support and Risk Analysis - Focused on Decision Science, Risk Management, Business Analytics.
   * Thesis: “Optimal Joint Operation of Wind and Hydropower” - Research Field: Business Analytics, Optimization.
