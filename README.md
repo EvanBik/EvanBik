@@ -8,14 +8,14 @@ My name is Evangelos Bikis and I am a self learner in data analytics and program
 ### 📚 Academic Background 
   * BSc in Economics - Majored in Business Administration: Financial Analysis, Accounting, Operational Research, Statistics, Time Series Analysis, Mathematics.
   * MSc in Decision Support and Risk Analysis - Focused on Decision Science, Risk Management, Business Analytics.
-  * Thesis: “Optimal Joint Operation of Wind and Hydropower” - Research Field: Business Analytics, Optimization.
+  * Master Thesis: “Optimal Joint Operation of Wind and Hydropower” - Research Field: Business Analytics, Optimization.
 
 ### 🛠 Skills & Tools
   * Microsoft Excel
-  * SQL (MySQL)
-  * Microsooft Power BI
+  * SQL (MySQL, BigQuery)
+  * Microsoft Power BI (Power BI Desktop)
   * Tableau
-  * Python (Jupyter, Spyder)
+  * Python (Notebook: Jupyter, Spyder | Libraries: Numpy, Pandas, Matplotlib, Seaborn, Scrapy, BeautifulSoup)
   * R
   * MATLAB
 
