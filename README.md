@@ -12,10 +12,10 @@ My name is Evangelos Bikis and I am a self learner in data analytics and program
 
 ### 🛠 Skills & Tools
   * Microsoft Excel
-  * SQL (MySQL, BigQuery)
+  * SQL (MySQL, BigQuery, MS SQL)
   * Microsoft Power BI (Power BI Desktop)
   * Tableau
-  * Python (Notebook: Jupyter, Spyder | Libraries: Numpy, Pandas, Matplotlib, Seaborn, Scrapy, BeautifulSoup)
+  * Python (Notebook: Jupyter, Spyder | Libraries: Scikit-learn, Numpy, Pandas, Matplotlib, Seaborn, Scrapy, BeautifulSoup)
   * R
   * MATLAB
 
