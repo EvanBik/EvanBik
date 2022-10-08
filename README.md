@@ -9,6 +9,7 @@ My name is Evangelos Bikis and I am a self learner in data analytics and program
   * BSc in Economics - Majored in Business Administration: Financial Analysis, Accounting, Operational Research, Statistics, Time Series Analysis, Mathematics.
   * MSc in Decision Support and Risk Analysis - Focused on Decision Science, Risk Management, Business Analytics.
   * Master Thesis: “Optimal Joint Operation of Wind and Hydropower” - Research Field: Business Analytics, Optimization.
+  * MSc in Decision Analysis and Data Science - Focused on Python Programming, Data Mining, Big Data with NoSQL
 
 ### 🛠 Skills & Tools
   * Microsoft Excel
